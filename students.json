@@ -1,0 +1,14 @@
+[
+    {
+        "id": "ST001",
+        "name": "Abhay",
+        "department": "CSE",
+        "marks": [
+            78.0,
+            85.0,
+            72.0
+        ],
+        "attendance": 91.0,
+        "status": "Active"
+    }
+]
